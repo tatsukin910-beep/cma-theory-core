@@ -35,5 +35,14 @@ Nakamura, T. (2026). *CMA 5 Core Layers: Official Terminology and Interpretive N
 - 公式サイト：https://tatsuki-nakamura.com
 - X：[@tatsu97910](https://x.com/tatsu97910)
 
+## 支援について
+
+本リポジトリの維持・改訂作業は、個人の当事者研究として継続しています。
+研究活動を支えるための任意の支援を受け付けています。
+
+[CMA支援金（PayPal）](https://www.paypal.com/ncp/payment/AQSBMHKVYJ3LC)
+
+支援は任意です。応援の有無によって、CMAの内容・結論・公開範囲が変わることはありません。Zenodo の正本や Theory Definition との関係も変わりません。
+
 中村達希｜当事者研究者  
 Complex Multilayered Abuse (CMA) © 2026 Tatsuki Nakamura
