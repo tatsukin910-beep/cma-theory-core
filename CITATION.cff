@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Complex Multilayered Abuse (CMA) Theory Core"
+authors:
+  - family-names: Nakamura
+    given-names: Tatsuki
+    orcid: https://orcid.org/0009-0004-9696-7896
+version: "2.0"
+date-released: 2026-08-10
+url: https://github.com/tatsukin910-beep/cma-theory-core
+license: CC-BY-4.0
+repository-code: https://github.com/tatsukin910-beep/cma-theory-core
+preferred-citation:
+  type: report
+  title: "Complex Multilayered Abuse (CMA): Theory Definition Version 2.0"
+  authors:
+    - family-names: Nakamura
+      given-names: Tatsuki
+      orcid: https://orcid.org/0009-0004-9696-7896
+  year: 2026
+  doi: 10.5281/zenodo.21876469
+  url: https://doi.org/10.5281/zenodo.21876469
+  license: CC-BY-4.0
