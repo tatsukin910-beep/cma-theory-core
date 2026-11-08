@@ -24,12 +24,4 @@
 
 ## 関連リポジトリ一覧
 
-| リポジトリ | 位置づけ |
-| --- | --- |
-| cma-theory-core | 正本履歴ハブ（現行・中心） |
-| cma-os-v2 | 証拠記録PWA（現行寄り） |
-| cma-cognitive-field | 5層可視化（現行寄り） |
-| tatsuki-nakamura | 研究サイト下書き（ドメイン未接続） |
-| cma-perception-field-react / cma-perception-field / cma-matrix-cylinder | 可視化プロトタイプ群（旧版寄り） |
-| cognitive-os4.0- / cma-visualizer- / cma-os | OS・可視化系の旧版・プロトタイプ |
-| live-timestamp-terminal | ユーティリティPWA（研究外） |
+関連リポジトリの一覧は [repositories.md](repositories.md) を参照。

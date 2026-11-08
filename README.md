@@ -35,6 +35,7 @@ Nakamura, T. (2026). *CMA 5 Core Layers: Official Terminology and Interpretive N
 - 公式サイト：https://tatsuki-nakamura.com
 - X：[@tatsu97910](https://x.com/tatsu97910)
 - [運用ルールと関連リポジトリの監理（Issue #1）](https://github.com/tatsukin910-beep/cma-theory-core/issues/1)
+- [関連リポジトリ一覧](docs/repositories.md)
 
 ## もう少し近くで
 
