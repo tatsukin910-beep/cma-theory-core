@@ -57,3 +57,7 @@ Google（Gemini）と Grok の2つのAIを使い分け、役割を明確に分�
 
 ## 関連リポジトリ
 詳細なリポジトリ一覧は [repositories.md](./repositories.md) を参照。
+
+## 関連ドキュメント
+- [Gemini Notebook MCP 連携・運用手順](./gemini-notebook-mcp.md)
+
